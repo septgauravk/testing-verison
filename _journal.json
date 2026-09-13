@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789204233790,
+      "tag": "0000_complex_vampiro",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789204333627,
+      "tag": "0001_nice_lady_ursula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789205874967,
+      "tag": "0002_organic_ulik",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789207909769,
+      "tag": "0003_daffy_black_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1789209378864,
+      "tag": "0004_numerous_morlocks",
+      "breakpoints": true
+    }
+  ]
+}
